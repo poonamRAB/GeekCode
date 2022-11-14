@@ -32,3 +32,12 @@ public class Solution {
         }
     }
 }
+
+
+Input/standIn:
+5
+1 2 3 4 5
+
+Output/StandOut:
+1 2 3 4 5 
+1 2 3 4 5  
